@@ -11,9 +11,12 @@
   <a href="https://youtube.com/@FabiDev-Shorts">Check out the FabiDev Shorts channel</a><br>
   <a href="https://twitch.tv/FabioGamingLive">Watch me on Twitch!</a>
 
+  <h2>Want to Help out?</h2>
+  If you want to help out FabiDevs development you can always contribute by making pull requests, opening issues, joining our discord and being part of our community!<br>
+  In case you are interested in funding some of our projects or generally support us, you can do so on <a href="https://ko-fi.com/fabiothefox">Ko-fi</a> or <a href="https://www.patreon.com/fabiogaming">Patreon</a>
   <h3>Important Note</h3>
   All of FabiDev's Social Media (YouTube, Twitch) are primarily produced and uploaded in German
-
+  
 # FabiDev | From Developers, For Developers
 
 </div>
